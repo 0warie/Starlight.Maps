@@ -1,6 +1,6 @@
 {
-    "mapId": "saltern",
-    "attribution": "deltanedas, Emisse, PJB",
+    "mapId": "refinery",
+    "attribution": null,
     "grids": [
         {
             "gridId": "794",
@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 227.58623,
-                "y": -799.696
+                "x": 447.12814,
+                "y": 405.4164
             },
             "extent": {
                 "a": {
@@ -17,11 +17,11 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 4832.0,
-                    "y": 3616.0
+                    "x": 7072.0,
+                    "y": 7424.0
                 }
             },
-            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/saltern/map/0"
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/refinery/map/0"
         }
     ],
     "parallaxLayers": [

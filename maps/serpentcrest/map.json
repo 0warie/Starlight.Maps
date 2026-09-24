@@ -1,6 +1,6 @@
 {
-    "mapId": "saltern",
-    "attribution": "deltanedas, Emisse, PJB",
+    "mapId": "serpentcrest",
+    "attribution": null,
     "grids": [
         {
             "gridId": "794",
@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 227.58623,
-                "y": -799.696
+                "x": -133.21114,
+                "y": -122.76693
             },
             "extent": {
                 "a": {
@@ -17,11 +17,51 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 4832.0,
-                    "y": 3616.0
+                    "x": 5984.0,
+                    "y": 5632.0
                 }
             },
-            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/saltern/map/0"
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/serpentcrest/map/0"
+        },
+        {
+            "gridId": "1191",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -46.851868,
+                "y": -137.03694
+            },
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                    "x": 544.0,
+                    "y": 224.0
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/serpentcrest/map/1"
+        },
+        {
+            "gridId": "1588",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -218.1184,
+                "y": -153.72906
+            },
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                    "x": 768.0,
+                    "y": 416.0
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/serpentcrest/map/2"
         }
     ],
     "parallaxLayers": [

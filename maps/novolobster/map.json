@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 313.75842,
-                "y": 138.08345
+                "x": 15.516192,
+                "y": -12.584562
             },
             "extent": {
                 "a": {
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 7008,
-                    "y": 5024
+                    "x": 7008.0,
+                    "y": 5024.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/novolobster/map/0"
