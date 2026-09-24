@@ -74,32 +74,59 @@
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                     "composition": "source-over",
                     "parallaxScale": {
-                        "x": 0.1,
-                        "y": 0.1
+                        "x": 0.01,
+                        "y": 0.01
                     }
                 },
                 {
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer2.png",
                     "composition": "lighter",
                     "parallaxScale": {
-                        "x": 0.2,
-                        "y": 0.2
+                        "x": 0.017,
+                        "y": 0.017
                     }
                 },
                 {
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer3.png",
                     "composition": "lighter",
                     "parallaxScale": {
-                        "x": 0.3,
-                        "y": 0.3
+                        "x": 0.053,
+                        "y": 0.053
                     }
-                },
+                }
+            ]
+        },
+        {
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "offset": {
+                "x": 0.0,
+                "y": -222.0
+            },
+            "static": false,
+            "minScale": null,
+            "source": {
+                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/bagelstation/planet.png",
+                "extent": {
+                    "a": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "b": {
+                        "x": 1344.0,
+                        "y": 1344.0
+                    }
+                }
+            },
+            "layers": [
                 {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer4.png",
-                    "composition": "source-atop",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/bagelstation/planet.png",
+                    "composition": "source-over",
                     "parallaxScale": {
-                        "x": 0.1,
-                        "y": 0.1
+                        "x": 0.01,
+                        "y": 0.01
                     }
                 }
             ]
