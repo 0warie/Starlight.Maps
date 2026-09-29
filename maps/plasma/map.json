@@ -138,7 +138,7 @@
             "layers": [
                 {
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/plasmastation/Asteroids.png",
-                    "composition": "lighter",
+                    "composition": "source-over",
                     "parallaxScale": {
                         "x": 0.16,
                         "y": 0.16
@@ -146,7 +146,7 @@
                 },
                 {
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/plasmastation/Asteroids-20567135.png",
-                    "composition": "lighter",
+                    "composition": "source-over",
                     "parallaxScale": {
                         "x": 0.31,
                         "y": 0.31
