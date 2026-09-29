@@ -123,7 +123,7 @@
             "static": false,
             "minScale": null,
             "source": {
-                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/plasmastation/Asteroids.png",
+                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/plasmastation/Asteroids-1.3x.png",
                 "extent": {
                     "a": {
                         "x": 0.0,
@@ -137,7 +137,7 @@
             },
             "layers": [
                 {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/plasmastation/Asteroids.png",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/plasmastation/Asteroids-1.3x.png",
                     "composition": "source-over",
                     "parallaxScale": {
                         "x": 0.16,
@@ -145,7 +145,7 @@
                     }
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/plasmastation/Asteroids-20567135.png",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/plasmastation/Asteroids-1.0x.png",
                     "composition": "source-over",
                     "parallaxScale": {
                         "x": 0.31,
